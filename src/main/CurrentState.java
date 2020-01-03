@@ -1,5 +1,5 @@
 package main;
 
-public class CurrentState {
+public interface CurrentState {
 
 }
